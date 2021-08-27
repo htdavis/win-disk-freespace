@@ -1,0 +1,22 @@
+{
+  "name": "win-disk-freespace",
+  "addedBy": "Broadcom",
+  "author": "Haruhiko Davis",
+  "displayName": "Windows Disk Free Space Percent",
+  "version": "1.0.0.0",
+  "facets": ["custom"],
+  "dependencies": [
+    "apmia"
+  ],
+  "enhances": [],
+  "excludes": [],
+  "compatibility": {
+    "osName": [
+        "windows"
+    ],
+    "agentVersion": ">=10.6"
+  },
+  "specificationVersion": "2",
+  "type": "apmia",
+  "dynamic": false
+}

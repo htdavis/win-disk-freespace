@@ -1,5 +1,5 @@
 # win-disk-freespace
-DX APM Infrastructure Agent extension which reports free disk space as a rounded percentage.
+DX APM Infrastructure Agent extension for Windows which reports free disk space as a rounded percentage.
 
 The extension makes use of Windows PowerShell, so no addtional software requirements.
 
